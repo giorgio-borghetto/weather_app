@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter application.
+Flutter Weather app with Current Forecast and 5-Days Forecasts
 
 ## Getting Started
 
